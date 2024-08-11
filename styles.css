@@ -5,6 +5,12 @@ body {
     font-size: large;
 }
 
+.recipebody {
+    padding: 8px 16px;
+    width: 700px;
+    margin-left: 12px;
+}
+
 .indeximg {
     display: inline;
     width: 15%;
@@ -39,5 +45,11 @@ body {
     display:inline-block;
     width: 50%;
     padding: 8px 16px;
+    text-align: justify;
+}
+
+.recipep {
+    display: block;
+    padding: 8px 0px;
     text-align: justify;
 }
