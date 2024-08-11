@@ -19,3 +19,18 @@ body {
     font-weight: bolder;
     text-align: center;
 }
+
+.recipeul {
+    float: left;
+    list-style-type: none;
+    background-color: #f3b47d;
+    margin: 24px;
+    padding: 8px 16px;
+    width: 100px;
+}
+
+.recipeul li a {
+    display: block;
+    width: 100px;
+    padding: 8px 16px;
+}
