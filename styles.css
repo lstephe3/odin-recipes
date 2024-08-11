@@ -4,3 +4,18 @@ body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
 }
+
+.indeximg {
+    display: inline;
+    width: 15%;
+    height: auto;
+    padding: 25px;
+}
+
+.indexh1 {
+    float: left;
+    width: 50%;
+    font-size: 72pt;
+    font-weight: bolder;
+    text-align: center;
+}
