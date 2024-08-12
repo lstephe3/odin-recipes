@@ -12,16 +12,16 @@ body {
 }
 
 .indeximg {
-    display: inline;
+    vertical-align: middle;
     width: 15%;
     height: auto;
     padding: 25px;
 }
 
 .indexh1 {
-    float: left;
-    width: 50%;
-    font-size: 72pt;
+    display: inline;
+    vertical-align: middle;
+    font-size: 8vw;
     font-weight: bolder;
     text-align: center;
 }
